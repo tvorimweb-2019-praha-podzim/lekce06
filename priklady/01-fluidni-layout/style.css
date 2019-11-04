@@ -42,29 +42,3 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* --------------------- */
-
-
-.hlavicka {
-    height: 100px;
-    margin-bottom: 2%;
-}
-
-.menu {
-    float: left;
-    width: 30%;
-    height: 500px;
-    margin-right: 2%;
-    margin-bottom: 2%;
-}
-
-.obsah {
-    float: left;
-    width: 68%;
-    height: 500px;
-    margin-bottom: 2%;
-}
-
-.paticka {
-    clear: left;
-    height: 100px;
-}
