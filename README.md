@@ -1,6 +1,6 @@
-# [Tvořím web od A do Z](https://github.com/TvorimWeb-2018-Praha/tvorim-web-a-z): Podklady pro 5. lekci
+# [Tvořím web od A do Z](https://github.com/czechitas/tvorim-web-a-z): Podklady pro 6. lekci
 
-Krátký odkaz na stažení: [is.gd/lekce5](https://is.gd/lekce5)
+Krátký odkaz na stažení: [bit.ly/webaz-lekce6](http://bit.ly/webaz-lekce6)
 
 ## Fluidní layout
 
